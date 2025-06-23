@@ -1,8 +1,6 @@
 Flask
-gunicorn
 easyocr
 requests
-Pillow
-torch
-torchvision
-Werkzeug
+pillow
+pytesseract
+gunicorn
