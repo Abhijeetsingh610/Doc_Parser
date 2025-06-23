@@ -5,3 +5,4 @@ easyocr
 pillow
 python-multipart
 tesseract
+gunicorn
